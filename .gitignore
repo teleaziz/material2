@@ -1,35 +1,11 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# compiled output
-/dist
-/tmp
-/typings
-/deploy
-
-# dependencies
-/node_modules
-/bower_components
-
-# Dart
-/.pub
-/.packages
-/packages
-/pubspec.lock
-/src/.pub
-/src/.packages
-/src/packages
-/src/pubspec.lock
-
-
-# IDEs
-/.idea
-/.vscode
-
-# misc
-.DS_Store
-/.sass-cache
-/connect.lock
-/coverage/*
-/libpeerconnection.log
-npm-debug.log
-testem.log
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
